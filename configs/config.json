@@ -1,0 +1,26 @@
+{
+    "directory_settings" : {
+
+        "input_dir" : "data/input/TT/",
+        "output_dir" : "data/output/",
+        "scenarios_dir" : "data/input/scenarios/"
+    },
+
+    "model_runs" : {
+
+        "rum_with_he_curve" : {
+            "total_time_to_contact_file" : "Combined_E2E_from_symptoms.csv",
+            "target_total_time_to_contact_file" : "Combined_Target_E2E.csv",
+            "scenarios_file" : "scenarios.csv",
+            "output_file" : "rum_he_curve.csv",
+            "infectiousness_option" : "he"
+        },
+        "rum_with_aschroft_curve" : {
+            "total_time_to_contact_file" : "Combined_E2E_from_symptoms.csv",
+            "target_total_time_to_contact_file" : "Combined_Target_E2E.csv",
+            "scenarios_file" : "scenarios.csv",
+            "output_file" : "rum_ashcroft_curve.csv",
+            "infectiousness_option" : "ashcroft"
+        }
+    }
+}

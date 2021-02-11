@@ -1,0 +1,31 @@
+,Scenario,symptomatic_rate,symptomatic_ascertainment_rate,percentage_notified,compliance_with_symptom_isolation_test,compliance_with_symptom_isolation_no_test,compliance_with_test_result_isolation,contact_compliance_with_isolation,symptomatic_rate,Distribution
+0,Scenario 1 (Central - Baseline),0.63,0.634920635,0.2784,0.8,0.2,0.8,0.65,0.63,October Distribution
+1,Scenario 2 (Central - Policy Lever 1 Target),0.63,0.8,0.2784,0.8,0.2,0.8,0.65,0.63,October Distribution
+2,Scenario 3 (Central - Policy Lever 2 Target),0.63,0.634920635,0.2784,0.85,0.2,0.85,0.8,0.63,October Distribution
+3,Scenario 4 (Central - Policy Lever 3 Target),0.63,0.634920635,0.2784,0.8,0.2,0.8,0.65,0.63,Target Distribution
+4,Scenario 5 (Central - Policy Lever 4 Target),0.63,0.634920635,0.459,0.8,0.2,0.8,0.65,0.63,October Distribution
+5,Scenario 6 (Central - All Target),0.63,0.8,0.459,0.85,0.2,0.85,0.8,0.63,Target Distribution
+6,Scenario 7 (Pessimistic - Baseline),0.63,0.396825397,0.1856,0.6,0.2,0.6,0.4875,0.63,October Distribution
+7,Scenario 8 (Pessimistic - Policy Lever 1 Target),0.63,0.8,0.1856,0.6,0.2,0.6,0.4875,0.63,October Distribution
+8,Scenario 9 (Pessimistic - Policy Lever 2 Target),0.63,0.396825397,0.1856,0.85,0.2,0.85,0.8,0.63,October Distribution
+9,Scenario 10 (Pessimistic - Policy Lever 3 Target),0.63,0.396825397,0.1856,0.6,0.2,0.6,0.4875,0.63,Target Distribution
+10,Scenario 11 (Pessimistic - Policy Lever 4 Target),0.63,0.396825397,0.306,0.6,0.2,0.6,0.4875,0.63,October Distribution
+11,Scenario 12 (Pessimistic - All Target),0.63,0.8,0.306,0.85,0.2,0.85,0.8,0.63,Target Distribution
+12,Scenario 13 (Optimistic - Baseline),0.63,0.793650794,0.348,0.85,0.2,0.85,0.8,0.63,October Distribution
+13,Scenario 14 (Optimistic - Policy Lever 1 Target),0.63,0.8,0.348,0.85,0.2,0.85,0.8,0.63,October Distribution
+14,Scenario 15 (Optimistic - Policy Lever 2 Target),0.63,0.793650794,0.348,0.85,0.2,0.85,0.8,0.63,October Distribution
+15,Scenario 16 (Optimistic - Policy Lever 3 Target),0.63,0.793650794,0.348,0.85,0.2,0.85,0.8,0.63,Target Distribution
+16,Scenario 17 (Optimistic - Policy Lever 4 Target),0.63,0.793650794,0.57375,0.85,0.2,0.85,0.8,0.63,October Distribution
+17,Scenario 18 (Optimistic - All Target),0.63,0.8,0.57375,0.85,0.2,0.85,0.8,0.63,Target Distribution
+18,Scenario 19 (Mildly Pessimistic - Baseline),0.63,0.515873016,0.232,0.7,0.2,0.7,0.56875,0.63,October Distribution
+19,Scenario 20 (Mildly Pessimistic - Policy Lever 1 Target),0.63,0.8,0.232,0.7,0.2,0.7,0.56875,0.63,October Distribution
+20,Scenario 21 (Mildly Pessimistic - Policy Lever 2 Target),0.63,0.515873016,0.232,0.85,0.2,0.85,0.8,0.63,October Distribution
+21,Scenario 22 (Mildly Pessimistic - Policy Lever 3 Target),0.63,0.515873016,0.232,0.7,0.2,0.7,0.56875,0.63,Target Distribution
+22,Scenario 23 (Mildly Pessimistic - Policy Lever 4 Target),0.63,0.515873016,0.3825,0.7,0.2,0.7,0.56875,0.63,October Distribution
+23,Scenario 24 (Mildly Pessimistic - All Target),0.63,0.8,0.3825,0.85,0.2,0.85,0.8,0.63,Target Distribution
+24,Scenario 25 (Mildly Optimistic - Baseline),0.63,0.714285714,0.3132,0.825,0.2,0.825,0.8,0.63,October Distribution
+25,Scenario 26 (Mildly Optimistic - Policy Lever 1 Target),0.63,0.8,0.3132,0.825,0.2,0.825,0.8,0.63,October Distribution
+26,Scenario 27 (Mildly Optimistic - Policy Lever 2 Target),0.63,0.714285714,0.3132,0.85,0.2,0.85,0.8,0.63,October Distribution
+27,Scenario 28 (Mildly Optimistic - Policy Lever 3 Target),0.63,0.714285714,0.3132,0.825,0.2,0.825,0.8,0.63,Target Distribution
+28,Scenario 29 (Mildly Optimistic - Policy Lever 4 Target),0.63,0.714285714,0.516375,0.825,0.2,0.825,0.8,0.63,October Distribution
+29,Scenario 30 (Mildly Optimistic - All Target),0.63,0.8,0.516375,0.85,0.2,0.85,0.8,0.63,Target Distribution

@@ -1,0 +1,9 @@
+
+*.csv
+.ipynb_checkpoints/ 
+Python/.ipynb_checkpoints/ 
+Python/__pycache__/
+*-checkpoint.ipynb
+/.Rdata
+/.Rhistory
+*.pyc
