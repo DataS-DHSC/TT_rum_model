@@ -9,7 +9,7 @@ pyodbc==4.0.30
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.5
-PyYAML==5.3.1
+PyYAML>=5.4
 scipy==1.6.0
 seaborn==0.11.1
 six==1.15.0
